@@ -8,20 +8,22 @@ public class Y {
 		for(int i:arr)
 		{
 			System.out.println(i);
-		}
+		}	
+	
+        Map<String, String>m1=new TreeMap<String, String>();
+        m1.put("name", "tom");
+        m1.put("city", "meerut");
+        m1.put("address", "btm");
+
+       for(Map.Entry<String, String>aaa:m1.entrySet())
+        {
+            System.out.println(aaa.getKey() + " " + aaa.getValue());
+        }
 		
+
+		System.out.println(m1.size());		
 	
 		
-		
-		
-		
-		
-		
-		
-		
-	
-	
-	
 	StringBuffer s=new StringBuffer("de");
 
 	
