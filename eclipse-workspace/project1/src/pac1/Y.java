@@ -14,21 +14,15 @@ public class Y {
 		{
 			System.out.println(i);
 		}
-		
-	
-		
-		
-		
-		
-		
-		
-		
-		
-	
-	
-	
-	StringBuffer s=new StringBuffer("de");
 
+
+		System.out.println(arr.length);
+
+
+
+		
+			
+	StringBuffer s=new StringBuffer("de");
 	
 	
 	String s1="asc";
