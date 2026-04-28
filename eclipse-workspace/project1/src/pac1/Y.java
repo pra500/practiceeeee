@@ -1,11 +1,6 @@
 package pac1;
 
 public class Y {
-
-
-
-
-	
 	public static void main(String[] args) {
 		
 		int[] arr= {5,0,6,8};
