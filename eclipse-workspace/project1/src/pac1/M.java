@@ -49,10 +49,15 @@ public class M {
 		System.out.println(k);
 	}
 	
+		
 	
-	
-	
-	
+  String ss="jkkdec";
+       char[] arrss= ss.toCharArray();
+
+       for(char c:arrss)
+       {
+           System.out.println(c);
+       }
 	
 		
 	
